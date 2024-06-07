@@ -14,3 +14,12 @@ A partir de varios projetos o desafio sera montar um projeto de apresencao em 7 
 4- Projects 
 5- Snippets
 6- Tasks
+7- Courses
+
+
+#### PACKAGES
+- projeto react com vite@latest
+- react-router-dom para server side rendering
+- axios para possiveis fetchs em apis 
+- styled-components para customizacao de componentes
+- react-icons para icons 
